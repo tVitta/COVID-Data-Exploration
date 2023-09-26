@@ -2,8 +2,12 @@
 An exploration and presentation of data related to COVID, updated as of Sept 2023.
 
 ## The Data
-341,069 datapoints split into two files for the showcase of the JOIN function
+341,069 datapoints split into two files for the showcase of the JOIN function.
 Found from Our World in Data: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+
+## The Analysis
+The analysis of the data was completed in Microsoft's SSMS for SQL
+SSMS was connected to a local server hosting the data
 
 ## The Result 
 Creation of the Tableau Dashboard below:
